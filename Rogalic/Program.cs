@@ -114,7 +114,7 @@ class Game
 
     private void ExploreRoom()
     {
-        if (roomCount > player.Score / 10) // Проверка на пропуск комнаты
+        if (roomCount > player.Score / 5) // Проверка на пропуск комнаты
         {
             Console.WriteLine("Вы пропустили комнату! Нет счета за пропуск комнаты.");
         }
