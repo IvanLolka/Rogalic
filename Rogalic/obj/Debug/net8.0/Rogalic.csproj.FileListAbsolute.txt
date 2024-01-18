@@ -1,0 +1,14 @@
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\bin\Debug\net8.0\Rogalic.exe
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\bin\Debug\net8.0\Rogalic.deps.json
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\bin\Debug\net8.0\Rogalic.runtimeconfig.json
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\bin\Debug\net8.0\Rogalic.dll
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\bin\Debug\net8.0\Rogalic.pdb
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.AssemblyInfoInputs.cache
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.AssemblyInfo.cs
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.csproj.CoreCompileInputs.cache
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.dll
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\refint\Rogalic.dll
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.pdb
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.genruntimeconfig.cache
+C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\ref\Rogalic.dll
