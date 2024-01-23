@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivanP\\source\\repos\\Rogalic\\Rogalic\\Rogalic.csproj": {}
+    "C:\\Users\\39735\\Desktop\\Новая папка (2)\\rogalic\\Rogalic\\Rogalic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivanP\\source\\repos\\Rogalic\\Rogalic\\Rogalic.csproj": {
+    "C:\\Users\\39735\\Desktop\\Новая папка (2)\\rogalic\\Rogalic\\Rogalic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivanP\\source\\repos\\Rogalic\\Rogalic\\Rogalic.csproj",
+        "projectUniqueName": "C:\\Users\\39735\\Desktop\\Новая папка (2)\\rogalic\\Rogalic\\Rogalic.csproj",
         "projectName": "Rogalic",
-        "projectPath": "C:\\Users\\ivanP\\source\\repos\\Rogalic\\Rogalic\\Rogalic.csproj",
-        "packagesPath": "C:\\Users\\ivanP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivanP\\source\\repos\\Rogalic\\Rogalic\\obj\\",
+        "projectPath": "C:\\Users\\39735\\Desktop\\Новая папка (2)\\rogalic\\Rogalic\\Rogalic.csproj",
+        "packagesPath": "C:\\Users\\39735\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\39735\\Desktop\\Новая папка (2)\\rogalic\\Rogalic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\vs\\instrumenti\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ivanP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\39735\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,6 +38,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {

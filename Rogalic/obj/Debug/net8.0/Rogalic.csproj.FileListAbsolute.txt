@@ -12,3 +12,18 @@ C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\refint\Rogalic.dll
 C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.pdb
 C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\Rogalic.genruntimeconfig.cache
 C:\Users\ivanP\source\repos\Rogalic\Rogalic\obj\Debug\net8.0\ref\Rogalic.dll
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\bin\Debug\net8.0\Rogalic.exe
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\bin\Debug\net8.0\Rogalic.deps.json
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\bin\Debug\net8.0\Rogalic.runtimeconfig.json
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\bin\Debug\net8.0\Rogalic.dll
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\bin\Debug\net8.0\Rogalic.pdb
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.AssemblyInfoInputs.cache
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.AssemblyInfo.cs
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.csproj.CoreCompileInputs.cache
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.sourcelink.json
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.dll
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\refint\Rogalic.dll
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.pdb
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\Rogalic.genruntimeconfig.cache
+C:\Users\39735\Desktop\Новая папка (2)\rogalic\Rogalic\obj\Debug\net8.0\ref\Rogalic.dll

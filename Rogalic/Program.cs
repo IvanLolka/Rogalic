@@ -127,8 +127,9 @@ class Game
 
     private void FightMonster()
     {
+        Weapon newWeapon = new Weapon(roomCount);
         Enemy enemy = new Enemy(roomCount, enemyNames);
-        Console.WriteLine($"Вы встретили {enemy.Name}! Здоровье {enemy.Name}: {enemy.Health}, Урон {enemy.Name}: {enemy.Damage}");
+        Console.WriteLine($"Вы встретили {enemy.Name} с оружием {newWeapon.Name}! Здоровье {enemy.Name}: {enemy.Health}, Урон {enemy.Name}: {enemy.Damage}");
 
         while (player.Health > 0 && enemy.Health > 0)
         {
@@ -168,10 +169,9 @@ class Game
         }
         else
         {
-            Console.WriteLine($"Вы победили {enemy.Name} и получили новое оружие!");
+            Console.WriteLine($"Вы победили {enemy.Name} c оружием {newWeapon.Name} и получили его!");
             player.Score += roomCount * 10; // Счет зависит от комнаты и монстра в ней
             Console.WriteLine($"Комната {roomCount + 1} ждет вас.");
-            Weapon newWeapon = new Weapon(roomCount);
             Console.WriteLine($"Новое оружие: {newWeapon.Name}, Урон: {newWeapon.Damage}");
             Console.WriteLine("Хотите взять новое оружие? (да/нет)");
 
